@@ -1,0 +1,6 @@
+module Pods_covid19_covid19Tests {
+  umbrella header "Pods-covid19-covid19Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
